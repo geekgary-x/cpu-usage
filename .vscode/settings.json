@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnEdit": false,
+    "cmake.configureArgs" : [
+        "-DCMAKE_PREFIX_PATH=D:/ThirdParty"
+    ],
+}
